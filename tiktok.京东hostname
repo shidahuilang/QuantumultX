@@ -1,0 +1,2 @@
+[mitm]
+hostname =api.m.jd.com *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com, api.m.jd.com, trade-acs.m.taobao.com, -*.amemv.com, -*.amemv.
